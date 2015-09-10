@@ -1,0 +1,139 @@
+{
+    "internationalTravels": [
+        {
+            "id":0,
+            "year": "2010",
+            "location": "Seoul",
+            "reason": "travel",
+            "length": "10 days",
+            "enjoymentRating": "6"
+        },
+        {
+            "id":1,
+            "year": "2010",
+            "location": "Hong Kong",
+            "reason": "travel",
+            "length": "8 days",
+            "enjoymentRating": "7"
+        },
+        {
+            "id":2,
+            "year": "2010",
+            "location": "Toyko",
+            "reason": "travel",
+            "length": "14 days",
+            "enjoymentRating": "8"
+        },
+        {
+            "id":3,
+            "year": "2012",
+            "location": "Portugal",
+            "reason": "adventure",
+            "length": "65 days",
+            "enjoymentRating": "8"
+        },
+        {
+            "id":4,
+            "year": "2012",
+            "location": "Bahamas",
+            "reason": "fun",
+            "length": "3 days",
+            "enjoymentRating": "5"
+        },
+        {
+            "id":5,
+            "year": "2012",
+            "location": "Jamaica",
+            "reason": "party",
+            "length": "3 days",
+            "enjoymentRating": "4"
+        },
+        {
+            "id":6,
+            "year": "2012",
+            "location": "Madrid",
+            "reason": "travel",
+            "length": "2 days",
+            "enjoymentRating": "5"
+        },
+        {
+            "id":7,
+            "year": "2013",
+            "location": "Costa Rica",
+            "reason": "work",
+            "length": "12 days",
+            "enjoymentRating": "7"
+        },
+        {
+            "id":8,
+            "year": "2014",
+            "location": "Costa Rica",
+            "reason": "work/play",
+            "length": "42 days",
+            "enjoymentRating": "10"
+        },
+        {
+            "id":9,
+            "year": "2014",
+            "location": "Toronto",
+            "reason": "work",
+            "length": "18 days",
+            "enjoymentRating": "3"
+        },
+        {
+            "id":10,
+            "year": "2014",
+            "location": "Toronto",
+            "reason": "work",
+            "length": "16 days",
+            "enjoymentRating": "6"
+        },
+        {
+            "id":11,
+            "year": "2006",
+            "location": "Bahamas",
+            "reason": "research",
+            "length": "22 days",
+            "enjoymentRating": "9"
+        },
+        {
+            "id":12,
+            "year": "2008",
+            "location": "Puerto Rico",
+            "reason": "diving",
+            "length": "15 days",
+            "enjoymentRating": "8"
+        },
+        {
+            "id":13,
+            "year": "2003",
+            "location": "Puerto Rico",
+            "reason": "fun",
+            "length": "5 days",
+            "enjoymentRating": "8"
+        },
+        {
+            "id":14,
+            "year": "2003",
+            "location": "Virgin Islands",
+            "reason": "fun",
+            "length": "6 days",
+            "enjoymentRating": "9"
+        },
+        {
+            "id":15,
+            "year": "2004",
+            "location": "Jamaica",
+            "reason": "family",
+            "length": "10 days",
+            "enjoymentRating": "7"
+        },
+        {
+            "id":16,
+            "year": "2007",
+            "location": "Amsterdam",
+            "reason": "travel",
+            "length": "7 days",
+            "enjoymentRating": "6"
+        }
+    ]
