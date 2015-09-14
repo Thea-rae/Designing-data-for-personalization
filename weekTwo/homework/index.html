@@ -4,23 +4,11 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <link href="main.css" rel="stylesheet">
         <script src="jquery.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function(){
-                var timeVal;
-                var dayVal;
-                $("#daySelector").change(function(){
-                    dayVal = $(this).val()
-                    console.log(dayVal);
-                    $("#timeSelector").change(function(){
-                        timeVal = $(this).val()
-                        console.log(timeVal);
-                    });
-                });
-            });
+        <script src="moreReasonableCase.js" type="text/javascript">
         </script>
     </head>
     <body>
-        <div class="selectors">
+        <div id="selectors" class="selectors">
             <div class="day-selector">
                 <select id="daySelector">
                     <option value="monday">M</option>
@@ -64,7 +52,9 @@
         <div class="container">
             <div class="map">
                 <div class="media">
+                <img id="activityImg" height="200" width="200">
                 </div>
+                <img id="locationImg">
             </div>
         </div>
     </body>
