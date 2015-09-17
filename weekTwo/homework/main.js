@@ -69,19 +69,13 @@ function initMap() {
        { saturation: -90 }
       ]
     },{
-      featureType: "road.arterial",
+      featureType: "road",
       elementType: "geometry",
       stylers: [
         { hue: "#00ffee" },
         { saturation: 150 }
       ]
-    },{
-      featureType: "poi.business",
-      elementType: "labels",
-      stylers: [
-        { visibility: "off" }
-      ]
-    }
+    },
   ];
 
   // Create a map object and specify the DOM element for display.
