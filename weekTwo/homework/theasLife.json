@@ -1,5 +1,8 @@
 {
-  "theasLife": [{
+  "theasLife": {
+    "locations": {
+      "home": {"lat": 123, "lng": 125},
+    }
     "days":[{
         "monday":{
           "00:00":{
@@ -700,5 +703,5 @@
           }
         },
       }]
-  }]
+  }
 }

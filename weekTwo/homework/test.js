@@ -5,26 +5,8 @@ $.getJSON("days.json", parselife);
   var myActivity;
   var myLocation;
   var schedule;
-
-
-$(document).ready(function(){
-
-  $("#timeSelector").change(function(){
-      timeVal = $(this).val()
-      console.log(timeVal);
-      var myActivity = whatamidoing(dayVal, timeVal);
-    });
-  $("#daySelector").change(function(){
-      dayVal = $(this).val()
-      console.log(dayVal);
-    });
-  $("#selectors").change(function(){
-    var imgLoc = "images/"+myLocation+".png";
-    var imgAct = "images/"+myActivity+".png";
-    $("#locationImg").attr("src",imgLoc);
-    $("#activityImg").attr("src",imgAct);
-  });
-});
+  var mylat;
+  var mylng;
 
 function parselife(data){
   days = data.days;
@@ -33,6 +15,7 @@ function parselife(data){
     schedule = days[i].schedule;
     for(var j =0; j< schedule.length; j++){
       console.log(schedule[j].time);
+       myLocation = schedule[j].location;
     }
   }
 }
@@ -42,8 +25,12 @@ function myDay(day, time){
       var schedule =days[i].schedule;
       for(j=0; j<schedule.length; j++){
         if( schedule[j].time == timeVal){
-           myActivity = schedule[j].activity;
-           myLocation = schedule[j].location;
+          myActivity = schedule[j].activity;
+          myLocation = schedule[j].location;
+          for(var k=0; k < myLocation.length; k++){
+            mylat = myLocation[k].lat;
+            mylng = myLocation[k].lng;
+          }
         }
       }
     }
