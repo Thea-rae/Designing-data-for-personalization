@@ -2,7 +2,6 @@
   var myActivity;
   var myLocation;
   var schedule;
-  var schedule;
   var mylat;
   var mylng;
 
@@ -15,6 +14,7 @@ $(document).ready(function(){
     var imgAct = "images/"+myActivity+".png";
     $("#activityImg").attr("src",imgAct);
     initMap();
+    console.log(myActivity +", "+mylat+", "+mylng);
   });
 });
 
@@ -22,16 +22,9 @@ $.getJSON("days.json", parselife);
 
 function parselife(data){
   days = data.days;
-  for(var i =0; i < days.length; i++){
-    console.log(days[i].day);
-    schedule = days[i].schedule;
-    for(var j =0; j< schedule.length; j++){
-      console.log(schedule[j].time);
-       myLocation = schedule[j].location;
-    }
-  }
 }
 function myDay(day, time){
+  console.log(day,time);
   for(i=0; i<days.length; i++){
     if (days[i].day == day){
       var schedule =days[i].schedule;
@@ -50,7 +43,6 @@ function myDay(day, time){
 }
 
 function initMap() {
-
   // Specify features and elements to define styles.
   var styleArray = [
     {
