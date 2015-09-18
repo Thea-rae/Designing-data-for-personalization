@@ -1,6 +1,4 @@
   var days;
-  var timeVal;
-  var dayVal;
   var myActivity;
   var myLocation;
   var schedule;
@@ -9,21 +7,13 @@
   var mylng;
 
 $(document).ready(function(){
-  $("#timeSelector").change(function(){
-      timeVal = $(this).val();
-    });
-
-  $("#daySelector").change(function(){
-      dayVal = $(this).val();
-    });
 
   $("#selectors").change(function(){
+    var timeVal = $('#timeSelector').val();
+    var dayVal = $('#daySelector').val();
     myDay(dayVal, timeVal);
-    var imgLoc = "images/"+myLocation+".png";
     var imgAct = "images/"+myActivity+".png";
-    $("#locationImg").attr("src",imgLoc);
     $("#activityImg").attr("src",imgAct);
-    console.log(mylat,+" "+ mylng);
     initMap();
   });
 });
@@ -46,7 +36,7 @@ function myDay(day, time){
     if (days[i].day == day){
       var schedule =days[i].schedule;
       for(j=0; j<schedule.length; j++){
-        if( schedule[j].time == timeVal){
+        if( schedule[j].time == time){
           myActivity = schedule[j].activity;
           myLocation = schedule[j].location;
           for(var k=0; k < myLocation.length; k++){
