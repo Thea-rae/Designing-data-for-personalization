@@ -11,8 +11,7 @@ $(document).ready(function(){
     var timeVal = $('#timeSelector').val();
     var dayVal = $('#daySelector').val();
     myDay(dayVal, timeVal);
-    var imgAct = "images/"+myActivity+".png";
-    $("#activityImg").attr("src",imgAct);
+    image();
     initMap();
     console.log(myActivity +", "+mylat+", "+mylng);
   });
@@ -40,6 +39,32 @@ function myDay(day, time){
       }
     }
   }
+}
+
+var id = "d76eab0645a34b1598e211af5370dd4d";
+
+function image (){
+  $.ajax({
+    type: "GET",
+    dataType: "jsonp",
+    cache: false,
+    url: "https://api.instagram.com/v1/tags/" + myActivity + "/media/recent?client_id=" + id,
+    success: function(response) {
+      var photoCount = 1;
+      var length = response.data != 'undefined' ? response.data.length : 0;
+      var limit = photoCount != null && photoCount < length ? photoCount : length;
+      if(limit > 0) {
+        for(var i = 0; i < limit; i++) {
+          $('<img>', {
+            src: response.data[i].images.standard_resolution.url
+          }).appendTo($("#activityImg"));
+        }
+      } else {
+          var imgAct = "images/"+myActivity+".png";
+          $("#activityImg").attr("src",imgAct);
+      }
+    }
+  });
 }
 
 function initMap() {
