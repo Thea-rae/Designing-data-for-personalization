@@ -4,15 +4,19 @@
   var schedule;
   var mylat;
   var mylng;
+  var instaData;
+  var imgAct;
 
 $(document).ready(function(){
+
+  initInsta();
+  initVars();
 
   $("#selectors").change(function(){
     var timeVal = $('#timeSelector').val();
     var dayVal = $('#daySelector').val();
     myDay(dayVal, timeVal);
-    image();
-    initMap();
+    initMap(mylat, mylng);
     console.log(myActivity +", "+mylat+", "+mylng);
   });
 });
@@ -30,6 +34,7 @@ function myDay(day, time){
       for(j=0; j<schedule.length; j++){
         if( schedule[j].time == time){
           myActivity = schedule[j].activity;
+          setActivityImage(myActivity);
           myLocation = schedule[j].location;
           for(var k=0; k < myLocation.length; k++){
             mylat = myLocation[k].lat;
@@ -41,33 +46,45 @@ function myDay(day, time){
   }
 }
 
-var id = "d76eab0645a34b1598e211af5370dd4d";
+function setActivityImage(activity){
+  console.log('set the activity image for ' + activity);
 
-function image (){
+  for(var i=0;i<instaData.length;i++){
+    var matchStatus = $.inArray(activity, instaData[i].tags);
+    if(matchStatus!=-1){
+      imgAct = instaData[i].images.standard_resolution.url;
+      $("#activityImg").attr("src", imgAct);
+      return;
+    }
+  }
+  imgAct = "images/"+myActivity+".png";
+  $("#activityImg").attr("src",imgAct);
+}
+
+function initVars(){
+  imgAct = "images/handstanding.png";
+  $("#activityImg").attr("src",imgAct);
+  mylat = 40.703791;
+  mylng = -73.93788;
+}
+
+function initInsta(){
+  var id = "d76eab0645a34b1598e211af5370dd4d";
+  var userID = 1701856516; //my userID 
+
   $.ajax({
     type: "GET",
     dataType: "jsonp",
     cache: false,
-    url: "https://api.instagram.com/v1/tags/" + myActivity + "/media/recent?client_id=" + id,
+    url: "https://api.instagram.com/v1/users/"+userID+"/media/recent/?client_id=" + id,
     success: function(response) {
-      var photoCount = 1;
-      var length = response.data != 'undefined' ? response.data.length : 0;
-      var limit = photoCount != null && photoCount < length ? photoCount : length;
-      if(limit > 0) {
-        for(var i = 0; i < limit; i++) {
-          $('<img>', {
-            src: response.data[i].images.standard_resolution.url
-          }).appendTo($("#activityImg"));
-        }
-      } else {
-          var imgAct = "images/"+myActivity+".png";
-          $("#activityImg").attr("src",imgAct);
-      }
+      instaData = response.data;
     }
   });
 }
 
-function initMap() {
+
+function initMap(mlat, mlng) {
   // Specify features and elements to define styles.
   var styleArray = [
     {
