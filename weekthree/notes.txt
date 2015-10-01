@@ -1,0 +1,15 @@
+moar js and ajax
+
+use key up not key down
+
+preventDefault() used for prenting click through or any stopping of
+standard behavoirs
+
+
+AJAX beeeeetch!
+
+$.ajax({ //is like get.JSON
+
+.forEach is the same as the for loops
+
+
