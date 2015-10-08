@@ -1,0 +1,2389 @@
+{"days":[
+	{
+		"day":"monday",
+		"schedule": [
+			{
+				"time":"00:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"01:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"02:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"03:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"04:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"05:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"06:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"07:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"08:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"caffinating",
+				"music": {
+					"artist": "Explosions in the sky",
+					"track": "a song for our fathers"
+				}
+			},
+			{
+				"time":"09:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "gramatik",
+					"track": "funk it up"
+				}
+			},
+			{
+				"time":"10:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "griz",
+					"track": "smash the funk"
+				}
+			},
+			{
+				"time":"11:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "Tom odell",
+					"track": "can't pretend"
+				}
+			},
+			{
+				"time":"12:00",
+				"location":[
+				{
+					"lat":40.6781784,
+					"lng":-73.9441579
+				}
+				],
+				"activity":"biking",
+				"music": {
+					"artist": "SHON",
+					"track": "Artifice"
+				}
+			},
+			{
+				"time":"13:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "George Ezra",
+					"track": "Leaving it Up to You"
+				}
+			},
+			{
+				"time":"14:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "Milky Chance",
+					"track": "Flashed Junk Mind"
+				}
+			},
+			{
+				"time":"15:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"lasers",
+				"music": {
+					"artist": "Sóley",
+					"track": "Pretty Face"
+				}
+			},
+			{
+				"time":"16:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "Milky Chance",
+					"track": "Fairytale"
+				}
+			},
+			{
+				"time":"17:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "Gary Clark Jr",
+					"track": "Don't Owe You A Thang"
+				}
+			},
+			{
+				"time":"18:00",
+				"location":[
+				{
+					"lat":40.6781784,
+					"lng":-73.9441579
+				}
+				],
+				"activity":"biking",
+				"music": {
+					"artist": "Tropkillaz",
+					"track": "Baby baby"
+				}
+			},
+			{
+				"time":"19:00",
+				"location":[
+				{
+					"lat":40.6941912,
+					"lng":-73.98517850000002
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"20:00",
+				"location":[
+				{
+					"lat":40.6941912,
+					"lng":-73.98517850000002
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"21:00",
+				"location":[
+				{
+					"lat":40.719811,
+					"lng":-73.98517850000002
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"22:00",
+				"location":[
+				{
+					"lat":40.719811,
+					"lng":-73.95127100000002
+				}
+				],
+				"activity":"dancing",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"23:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"dancing",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			}
+		]
+	},
+	{
+		"day":"tuesday",
+		"schedule": [
+			{
+				"time":"00:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"01:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"02:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"03:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"04:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"05:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"06:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"07:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"08:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"caffinating",
+				"music": {
+					"artist": "DirtWire",
+					"track": "Amphibian Circuits"
+				}
+			},
+			{
+				"time":"09:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "Odesza",
+					"track": "Always This Late"
+				}
+			},
+			{
+				"time":"10:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "Future Islands",
+					"track": "On the Water"
+				}
+			},
+			{
+				"time":"11:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "Stars",
+					"track": "Dead Hearts"
+				}
+			},
+			{
+				"time":"12:00",
+				"location":[
+				{
+					"lat":40.6781784,
+					"lng":-73.9441579
+				}
+				],
+				"activity":"biking",
+				"music": {
+					"artist": "GoldFish",
+					"track": "Fort Knox"
+				}
+			},
+			{
+				"time":"13:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"14:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"15:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"handstand",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"16:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"17:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"18:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"handstand",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"19:00",
+				"location":[
+				{
+					"lat":40.7287645,
+					"lng":-73.99549569999999
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"20:00",
+				"location":[
+				{
+					"lat":40.7287645,
+					"lng":-73.99549569999999
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"21:00",
+				"location":[
+				{
+					"lat":40.7287645,
+					"lng":-73.99549569999999
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"22:00",
+				"location":[
+				{
+					"lat":40.6781784,
+					"lng":-73.9441579
+				}
+				],
+				"activity":"biking",
+				"music": {
+					"artist": "Big Pun",
+					"track": "Still Not A Player"
+				}
+			},
+			{
+				"time":"23:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"stretching",
+				"music": {
+					"artist": "Pillow Talk",
+					"track": "Meet me in the Dark"
+				}
+			}
+		]
+	},
+	{
+		"day":"wednesday",
+		"schedule": [
+			{
+				"time":"00:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"01:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"02:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"03:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"04:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"05:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"06:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"07:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"08:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"caffinating",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"09:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "Wax Tailor",
+					"track": "Que Sera"
+				}
+			},
+			{
+				"time":"10:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "The XX",
+					"track": "Fiction"
+				}
+			},
+			{
+				"time":"11:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "Bonobo",
+					"track": "Kiara"
+				}
+			},
+			{
+				"time":"12:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "Wildlight",
+					"track": "Twirl Me"
+				}
+			},
+			{
+				"time":"13:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "Cashmere Cat",
+					"track": "Mirror Maru"
+				}
+			},
+			{
+				"time":"14:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"15:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"16:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homeowrking",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"17:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"18:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "Wildlight",
+					"track": "Oh Love"
+				}
+			},
+			{
+				"time":"19:00",
+				"location":[
+				{
+					"lat":40.7287645,
+					"lng":-73.99549569999999
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"20:00",
+				"location":[
+				{
+					"lat":40.7287645,
+					"lng":-73.99549569999999
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"21:00",
+				"location":[
+				{
+					"lat":40.71691,
+					"lng":-73.96469400000001
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"22:00",
+				"location":[
+				{
+					"lat":40.71691,
+					"lng":-73.96469400000001
+				}
+				],
+				"activity":"silks",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"23:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"stretching",
+				"music": {
+					"artist": "Banks",
+					"track": "Begging For Thread"
+				}
+			}
+		]
+	},
+	{
+		"day":"thursday",
+		"schedule": [
+			{
+				"time":"00:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"01:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"02:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"03:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"04:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"05:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"06:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"07:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"08:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"caffinating",
+				"music": {
+					"artist": "SHON",
+					"track": "Artifice"
+				}
+			},
+			{
+				"time":"09:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "George Ezra",
+					"track": "Leaing it up to you"
+				}
+			},
+			{
+				"time":"10:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "DJ Snake & AlunaGeorge",
+					"track": "You know You like it"
+				}
+			},
+			{
+				"time":"11:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"12:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"13:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"14:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"15:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"16:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"17:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"18:00",
+				"location":[
+				{
+					"lat":40.6781784,
+					"lng":-73.9441579
+				}
+				],
+				"activity":"biking",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"19:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"20:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"21:00",
+				"location":[
+				{
+					"lat":40.7294245,
+					"lng":-73.99370699999997
+				}
+				],
+				"activity":"class",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"22:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"23:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"stretching",
+				"music": {
+					"artist": "Lupe Fiasco",
+					"track": "Letting Go"
+				}
+			}
+		]
+	},
+	{
+		"day":"friday",
+		"schedule": [
+			{
+				"time":"00:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"01:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"02:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"03:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"04:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"05:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"06:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"07:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"08:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"caffinating",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"09:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"10:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"11:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"12:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"13:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"14:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"15:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"16:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"17:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"18:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"straps",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"19:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"straps",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"20:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"silks",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"21:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"silks",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"22:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"handstand",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"23:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"stretching",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			}
+		]
+	},
+	{
+		"day":"saturday",
+		"schedule": [
+			{
+				"time":"00:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"01:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"02:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"03:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"04:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"05:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"06:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"07:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"08:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"caffinating",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"09:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"10:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"11:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"12:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"13:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"14:00",
+				"location":[
+				{
+					"lat":40.719811,
+					"lng":-73.95127100000002
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "Geoorge Ezra",
+					"track": "Barcelona"
+				}
+			},
+			{
+				"time":"15:00",
+				"location":[
+				{
+					"lat":40.719811,
+					"lng":-73.95127100000002
+				}
+				],
+				"activity":"handstand",
+				"music": {
+					"artist": "Tom odell",
+					"track": "Can't pretend"
+				}
+			},
+			{
+				"time":"16:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"17:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"18:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"19:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"20:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"21:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"22:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"23:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"Dancing",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			}
+		]
+	},
+	{
+		"day":"sunday",
+		"schedule": [
+			{
+				"time":"00:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"Dancing",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"01:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"Dancing",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"02:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"03:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"04:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"05:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"06:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"07:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"sleeping",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"08:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"caffinating",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"09:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"10:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"circuslife",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"11:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"12:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"13:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"14:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"15:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"homework",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"16:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"organic",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"17:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"silks",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"18:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"silks",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"19:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"silks",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"20:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"silks",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"21:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"handstand",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"22:00",
+				"location":[
+				{
+					"lat":40.711655,
+					"lng":-73.93547000000001
+				}
+				],
+				"activity":"straps",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			},
+			{
+				"time":"23:00",
+				"location":[
+				{
+					"lat":40.703791,
+					"lng":-73.93788
+				}
+				],
+				"activity":"stretching",
+				"music": {
+					"artist": "none",
+					"track": "none"
+				}
+			}
+		]
+	}
+]}
