@@ -24,7 +24,7 @@ app.get('/',function(req, res){
 	// TO DO
 
 	// if not, redirect the user to authenticate with rdio
-	res.redirect('https://www.rdio.com/oauth2/authorize?response_type=code&client_id=76ytzojebrd5vaitsxn5awzxfa&redirect_uri=http://localhost:8080/authsuccess');
+	res.redirect('https://www.rdio.com/oauth2/authorize?response_type=code&client_id=76ytzojebrd5vaitsxn5awzxfa&redirect_uri=http://159.203.64.148:8080/authsuccess');
 
 });
 
@@ -35,7 +35,7 @@ app.get('/authsuccess', function(req, res) {
 
 	rdio.getAccessToken({
 		code: req.query.code,
-		redirect: 'http://localhost:8080/authsuccess'
+		redirect: 'http://159.203.64.148:8080/authsuccess'
 	}, function(err) {
 		if (err) {
 			console.log('error authenticating');
@@ -101,7 +101,7 @@ app.get('/authsuccess', function(req, res) {
 
 
 	});
-
+// 
 
 	res.sendFile( __dirname + '/public/bob.html');
 

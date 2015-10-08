@@ -85,6 +85,7 @@ function initVars(){
 	$("#activityImg").attr("src",imgAct);
 	mylat = 40.703791;
 	mylng = -73.93788;
+	$("#headphones").attr("src", "images/noheadphones.png");
 }
 
 function initInsta(){
