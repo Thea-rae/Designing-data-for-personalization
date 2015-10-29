@@ -1,0 +1,45 @@
+{"waterforfood": [
+    {
+      "name": "lamb",
+      "unit": "1 ounce",
+      "waterUsed": 88.64,
+      "liquidUnit": "gallons"
+    },
+    {
+      "name": "peas",
+      "unit": "1 ounce",
+      "waterUsed": 44.53,
+      "liquidUnit": "gallons"
+    },
+    {
+      "name": "chickpeas",
+      "unit": "1 ounce",
+      "waterUsed": 76.07,
+      "liquidUnit": "gallons"
+    },
+    {
+      "name": "eggs",
+      "unit": "1 ounce",
+      "waterUsed": 11.73,
+      "liquidUnit": "gallons"
+    },
+    {
+      "name": "lentils",
+      "unit": "1 ounce",
+      "waterUsed": 71.28,
+      "liquidUnit": "gallons"
+    },
+    {
+      "name": "chicken",
+      "unit": "1 ounce",
+      "waterUsed": 16.61,
+      "liquidUnit": "gallons"
+    },
+    {
+      "name": "pork",
+      "unit": "1 ounce",                  
+      "waterUsed": 41.25,
+      "liquidUnit": "gallons"
+    }
+  ]
+}

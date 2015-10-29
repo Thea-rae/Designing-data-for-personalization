@@ -1,12 +1,11 @@
-$.getJSON("internationalTravels.JSON", parsetravel);
+$.getJSON("water.JSON", parsetravel);
 
 function parsetravel(data){
-  var places = data.internationalTravels;
-  for (var i = 0; i<places.length; i++){
-    var year = places[i].year;
-    var locationTraveled = places[i].locationTraveled;
-    var p = "<li>" + locationTraveled + ", " + year + "</li>";
+  var food = data.waterforfood;
+  for (var i = 0; i<food.length; i++){
+    var name = food[i].name;
+    var p = "<li>" + name  + "</li>";
     $ ("#things").append(p);
   }
-  //console.log(data);
+  console.log(data);
 }
